@@ -19,7 +19,8 @@ export default function App() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
       >
-        🚀 Welcome to Emre Ballas & AI Revolution
+        🚀 Welcome to the Future of AI & Blockchain
+
       </motion.h1>
 
       <motion.p
